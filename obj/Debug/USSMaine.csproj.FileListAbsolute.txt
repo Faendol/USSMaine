@@ -1,0 +1,9 @@
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\bin\USSMaine.dll.config
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\bin\USSMaine.dll
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\bin\USSMaine.pdb
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\obj\Debug\USSMaine.csprojResolveAssemblyReference.cache
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\obj\Debug\USSMaine.csproj.CoreCompileInputs.cache
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\obj\Debug\USSMaine.dll
+C:\Users\Jacqu\Documents\Visual Studio 2017\Projects\USSMaine\USSMaine\obj\Debug\USSMaine.pdb

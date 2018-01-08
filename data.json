@@ -1,0 +1,744 @@
+﻿[
+  {
+    "dob": 1991,
+    "rank": "CPO",
+    "lastname": "Mancuso",
+    "firstname": "Joseph",
+    "hometown": "Totowa"
+  },
+  {
+    "dob": 1993,
+    "rank": "CPO",
+    "lastname": "Batson",
+    "firstname": "Mike",
+    "hometown": "Ledyard"
+  },
+  {
+    "dob": 1993,
+    "rank": "CPO",
+    "lastname": "Daniel",
+    "firstname": "Shippensburg",
+    "hometown": "PA"
+  },
+  {
+    "dob": 1993,
+    "rank": "EM",
+    "lastname": "Samuel",
+    "firstname": "Danville",
+    "hometown": "PA"
+  },
+  {
+    "dob": 1993,
+    "rank": "ET",
+    "lastname": "Lanny",
+    "firstname": "Arcadia",
+    "hometown": "NE"
+  },
+  {
+    "dob": 1993,
+    "rank": "ET",
+    "lastname": "Peter",
+    "firstname": "Warren",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1993,
+    "rank": "LT",
+    "lastname": "Karol",
+    "firstname": "Hubbard",
+    "hometown": "OH"
+  },
+  {
+    "dob": 1993,
+    "rank": "MM",
+    "lastname": "Tom",
+    "firstname": "Phoenix",
+    "hometown": "AZ"
+  },
+  {
+    "dob": 1993,
+    "rank": "MM",
+    "lastname": "John",
+    "firstname": "Decatur",
+    "hometown": "AL"
+  },
+  {
+    "dob": 1993,
+    "rank": "MT",
+    "lastname": "Brian",
+    "firstname": "Pittston",
+    "hometown": "PA"
+  },
+  {
+    "dob": 1993,
+    "rank": "MT",
+    "lastname": "Ray",
+    "firstname": "Brentwood",
+    "hometown": "NY"
+  },
+  {
+    "dob": 1993,
+    "rank": "RM",
+    "lastname": "Russell",
+    "firstname": "Medford",
+    "hometown": "NJ"
+  },
+  {
+    "dob": 1993,
+    "rank": "SCPO",
+    "lastname": "David",
+    "firstname": "Dedham",
+    "hometown": "MA"
+  },
+  {
+    "dob": 1993,
+    "rank": "SCPO",
+    "lastname": "",
+    "firstname": "Brett",
+    "hometown": "Fayetteville NC"
+  },
+  {
+    "dob": 1994,
+    "rank": "CPO",
+    "lastname": "Thomas",
+    "firstname": "Akron",
+    "hometown": "OH"
+  },
+  {
+    "dob": 1994,
+    "rank": "CPO",
+    "lastname": "John",
+    "firstname": "Bangor",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1994,
+    "rank": "ET",
+    "lastname": "John",
+    "firstname": "Niantic",
+    "hometown": "CT"
+  },
+  {
+    "dob": 1994,
+    "rank": "IC",
+    "lastname": "Robert",
+    "firstname": "Wilkes",
+    "hometown": "Barre"
+  },
+  {
+    "dob": 1994,
+    "rank": "MM",
+    "lastname": "Harvey",
+    "firstname": "Easton",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1994,
+    "rank": "MM",
+    "lastname": "Dennis",
+    "firstname": "Hickory",
+    "hometown": "NC"
+  },
+  {
+    "dob": 1994,
+    "rank": "MM",
+    "lastname": "Brent",
+    "firstname": "Honesdale",
+    "hometown": "PA"
+  },
+  {
+    "dob": 1994,
+    "rank": "MM",
+    "lastname": "Timothy",
+    "firstname": "South",
+    "hometown": "Bend"
+  },
+  {
+    "dob": 1994,
+    "rank": "MT",
+    "lastname": "David",
+    "firstname": "Battle",
+    "hometown": "Creek"
+  },
+  {
+    "dob": 1994,
+    "rank": "MT",
+    "lastname": "Curtis",
+    "firstname": "Scarborough",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1994,
+    "rank": "MT",
+    "lastname": "Jim",
+    "firstname": "Binghamton",
+    "hometown": "NY"
+  },
+  {
+    "dob": 1994,
+    "rank": "MT",
+    "lastname": "Greg",
+    "firstname": "Valdosta",
+    "hometown": "GA"
+  },
+  {
+    "dob": 1994,
+    "rank": "MT",
+    "lastname": "Carl",
+    "firstname": "Wichita",
+    "hometown": "KS"
+  },
+  {
+    "dob": 1994,
+    "rank": "MT",
+    "lastname": "Michael",
+    "firstname": "Cape",
+    "hometown": "May"
+  },
+  {
+    "dob": 1994,
+    "rank": "RM",
+    "lastname": "Steve",
+    "firstname": "Glenburn",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1994,
+    "rank": "RM",
+    "lastname": "Joseph",
+    "firstname": "Mt",
+    "hometown": "Top"
+  },
+  {
+    "dob": 1994,
+    "rank": "SN",
+    "lastname": "Jason",
+    "firstname": "Longview",
+    "hometown": "TX"
+  },
+  {
+    "dob": 1994,
+    "rank": "TM",
+    "lastname": "Daniel",
+    "firstname": "Pomfret",
+    "hometown": "CT"
+  },
+  {
+    "dob": 1995,
+    "rank": "ET",
+    "lastname": "Dennis",
+    "firstname": "Madison",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1995,
+    "rank": "FT",
+    "lastname": "",
+    "firstname": "Stephen",
+    "hometown": "San Antonio TX"
+  },
+  {
+    "dob": 1995,
+    "rank": "LT",
+    "lastname": "Chris",
+    "firstname": "Jacksonville",
+    "hometown": "FL"
+  },
+  {
+    "dob": 1995,
+    "rank": "MM",
+    "lastname": "Jeffrey",
+    "firstname": "Ramsey",
+    "hometown": "NJ"
+  },
+  {
+    "dob": 1995,
+    "rank": "MM",
+    "lastname": "Wade",
+    "firstname": "Clarksville",
+    "hometown": "TN"
+  },
+  {
+    "dob": 1995,
+    "rank": "MM",
+    "lastname": "John",
+    "firstname": "Burlington",
+    "hometown": "VT"
+  },
+  {
+    "dob": 1995,
+    "rank": "MS",
+    "lastname": "Aaron",
+    "firstname": "Boling",
+    "hometown": "TX"
+  },
+  {
+    "dob": 1995,
+    "rank": "SN",
+    "lastname": "Nate",
+    "firstname": "Dale",
+    "hometown": "City"
+  },
+  {
+    "dob": 1995,
+    "rank": "ST",
+    "lastname": "Steve",
+    "firstname": "Harrah",
+    "hometown": "OK"
+  },
+  {
+    "dob": 1995,
+    "rank": "ST",
+    "lastname": "George",
+    "firstname": "Chattanooga",
+    "hometown": "TN"
+  },
+  {
+    "dob": 1995,
+    "rank": "ST",
+    "lastname": "Chuck",
+    "firstname": "Madison",
+    "hometown": "SD"
+  },
+  {
+    "dob": 1995,
+    "rank": "ST",
+    "lastname": "Shon",
+    "firstname": "Carthage",
+    "hometown": "TX"
+  },
+  {
+    "dob": 1995,
+    "rank": "ST",
+    "lastname": "Wayne",
+    "firstname": "(Bubba",
+    "hometown": "Nashville"
+  },
+  {
+    "dob": 1995,
+    "rank": "ST",
+    "lastname": "Jason",
+    "firstname": "Phoenix",
+    "hometown": "AZ"
+  },
+  {
+    "dob": 1995,
+    "rank": "TM",
+    "lastname": "Jeff",
+    "firstname": "Florala",
+    "hometown": "AL"
+  },
+  {
+    "dob": 1996,
+    "rank": "LT",
+    "lastname": "Joel",
+    "firstname": "Arlington",
+    "hometown": "VA"
+  },
+  {
+    "dob": 1996,
+    "rank": "MM",
+    "lastname": "Bob",
+    "firstname": "Rome",
+    "hometown": "GA"
+  },
+  {
+    "dob": 1996,
+    "rank": "MM",
+    "lastname": "Greg",
+    "firstname": "Jeanerette",
+    "hometown": "LA"
+  },
+  {
+    "dob": 1996,
+    "rank": "SCPO",
+    "lastname": "Kelly",
+    "firstname": "Levels",
+    "hometown": "WV"
+  },
+  {
+    "dob": 1997,
+    "rank": "CPO",
+    "lastname": "Ed",
+    "firstname": "Phoenix",
+    "hometown": "AZ"
+  },
+  {
+    "dob": 1997,
+    "rank": "ET",
+    "lastname": "Russell",
+    "firstname": "Lawrenceville",
+    "hometown": "GA"
+  },
+  {
+    "dob": 1997,
+    "rank": "ET",
+    "lastname": "Matthew",
+    "firstname": "Beaverton",
+    "hometown": "MI"
+  },
+  {
+    "dob": 1997,
+    "rank": "ET",
+    "lastname": "Nick",
+    "firstname": "Skowhegan",
+    "hometown": "ME"
+  },
+  {
+    "dob": 1997,
+    "rank": "FT",
+    "lastname": "Donald",
+    "firstname": "Pasadena",
+    "hometown": "TX"
+  },
+  {
+    "dob": 1997,
+    "rank": "FT",
+    "lastname": "Matthew",
+    "firstname": "Flint",
+    "hometown": "MI"
+  },
+  {
+    "dob": 1997,
+    "rank": "FT",
+    "lastname": "Jason",
+    "firstname": "Colorado",
+    "hometown": "Springs"
+  },
+  {
+    "dob": 1997,
+    "rank": "HM",
+    "lastname": "George",
+    "firstname": "Wilmington",
+    "hometown": "NC"
+  },
+  {
+    "dob": 1997,
+    "rank": "MM",
+    "lastname": "Neill",
+    "firstname": "Dushore",
+    "hometown": "PA"
+  },
+  {
+    "dob": 1997,
+    "rank": "MT",
+    "lastname": "Bryce",
+    "firstname": "Kernersville",
+    "hometown": "NC"
+  },
+  {
+    "dob": 1997,
+    "rank": "MT",
+    "lastname": "Billy",
+    "firstname": "Lafayette",
+    "hometown": "GA"
+  },
+  {
+    "dob": 1997,
+    "rank": "ST",
+    "lastname": "Mark",
+    "firstname": "Hornbeck",
+    "hometown": "LA"
+  },
+  {
+    "dob": 1997,
+    "rank": "ST",
+    "lastname": "Adam",
+    "firstname": "Independence",
+    "hometown": "MO"
+  },
+  {
+    "dob": 1997,
+    "rank": "ST",
+    "lastname": "Charles",
+    "firstname": "Amricus",
+    "hometown": "GA"
+  },
+  {
+    "dob": 1997,
+    "rank": "YN",
+    "lastname": "Jeff",
+    "firstname": "Fenton",
+    "hometown": "MO"
+  },
+  {
+    "dob": 1997,
+    "rank": "YN",
+    "lastname": "Nathan",
+    "firstname": "Waxahachie",
+    "hometown": "TX"
+  },
+  {
+    "dob": 1998,
+    "rank": "CPO",
+    "lastname": "Kenny",
+    "firstname": "Nampa",
+    "hometown": "ID"
+  },
+  {
+    "dob": 1998,
+    "rank": "EM",
+    "lastname": "Benjamin",
+    "firstname": "Lancaster",
+    "hometown": "CA"
+  },
+  {
+    "dob": 1998,
+    "rank": "ET",
+    "lastname": "Walter",
+    "firstname": "Lilburn",
+    "hometown": "GA"
+  },
+  {
+    "dob": 1998,
+    "rank": "MM",
+    "lastname": "Sean",
+    "firstname": "Lansing",
+    "hometown": "MI"
+  },
+  {
+    "dob": 1998,
+    "rank": "SCPO",
+    "lastname": "Charles",
+    "firstname": "Bethel",
+    "hometown": "VT"
+  },
+  {
+    "dob": 1998,
+    "rank": "ST",
+    "lastname": "Ben",
+    "firstname": "Helenwood",
+    "hometown": "TN"
+  },
+  {
+    "dob": 1998,
+    "rank": "YN",
+    "lastname": "Jermey",
+    "firstname": "Decatur",
+    "hometown": "AL"
+  },
+  {
+    "dob": 1999,
+    "rank": "EM",
+    "lastname": "Mark",
+    "firstname": "Billings",
+    "hometown": "MT"
+  },
+  {
+    "dob": 1999,
+    "rank": "MM",
+    "lastname": "Jerad",
+    "firstname": "Penn",
+    "hometown": "Yan"
+  },
+  {
+    "dob": 1999,
+    "rank": "MM",
+    "lastname": "Patrick",
+    "firstname": "Cleveland",
+    "hometown": "OH"
+  },
+  {
+    "dob": 1999,
+    "rank": "MS",
+    "lastname": "Michael",
+    "firstname": "Charleston",
+    "hometown": "WV"
+  },
+  {
+    "dob": 1999,
+    "rank": "MT",
+    "lastname": "Samuel",
+    "firstname": "Jonesborough",
+    "hometown": "TN"
+  },
+  {
+    "dob": 1999,
+    "rank": "SCPO",
+    "lastname": "Neal",
+    "firstname": "Ann",
+    "hometown": "Arbor"
+  },
+  {
+    "dob": 1999,
+    "rank": "ST",
+    "lastname": "Eric",
+    "firstname": "Beaufort",
+    "hometown": "SC"
+  },
+  {
+    "dob": 1999,
+    "rank": "YN",
+    "lastname": "David",
+    "firstname": "Kingsbay",
+    "hometown": "GA"
+  },
+  {
+    "dob": 2000,
+    "rank": "EM",
+    "lastname": "Matthew",
+    "firstname": "Stephenville",
+    "hometown": "TX"
+  },
+  {
+    "dob": 2000,
+    "rank": "ET",
+    "lastname": "Cory",
+    "firstname": "Newark",
+    "hometown": "NJ"
+  },
+  {
+    "dob": 2000,
+    "rank": "ET",
+    "lastname": "Chris",
+    "firstname": "Cleveland",
+    "hometown": "OH"
+  },
+  {
+    "dob": 2000,
+    "rank": "FT",
+    "lastname": "Angel",
+    "firstname": "Bronx",
+    "hometown": "NY"
+  },
+  {
+    "dob": 2000,
+    "rank": "MM",
+    "lastname": "Jason",
+    "firstname": "Jacksonville",
+    "hometown": "FL"
+  },
+  {
+    "dob": 2000,
+    "rank": "MM",
+    "lastname": "Brian",
+    "firstname": "Shreveport",
+    "hometown": "LA"
+  },
+  {
+    "dob": 2000,
+    "rank": "ST",
+    "lastname": "Nick",
+    "firstname": "Tulsa",
+    "hometown": "OK"
+  },
+  {
+    "dob": 2001,
+    "rank": "ET",
+    "lastname": "Scott",
+    "firstname": "St.",
+    "hometown": "Paul"
+  },
+  {
+    "dob": 2001,
+    "rank": "ET",
+    "lastname": "Travis",
+    "firstname": "Waldron",
+    "hometown": "AR"
+  },
+  {
+    "dob": 2001,
+    "rank": "MM",
+    "lastname": "Matt",
+    "firstname": "Houston",
+    "hometown": "TX"
+  },
+  {
+    "dob": 2001,
+    "rank": "MM",
+    "lastname": "Joseph",
+    "firstname": "Gainesville",
+    "hometown": "GA"
+  },
+  {
+    "dob": 2001,
+    "rank": "ST",
+    "lastname": "Brandon",
+    "firstname": "FL",
+    "hometown": 2002
+  },
+  {
+    "dob": 2002,
+    "rank": "EM",
+    "lastname": "Zachary",
+    "firstname": "Cut",
+    "hometown": "Bank"
+  },
+  {
+    "dob": 2002,
+    "rank": "ET",
+    "lastname": "Ed",
+    "firstname": "North",
+    "hometown": "Royalton"
+  },
+  {
+    "dob": 2002,
+    "rank": "MM",
+    "lastname": "James",
+    "firstname": "Choteau",
+    "hometown": "MT"
+  },
+  {
+    "dob": 2002,
+    "rank": "MM",
+    "lastname": "Joseph",
+    "firstname": "Sumrall",
+    "hometown": "MS"
+  },
+  {
+    "dob": 2002,
+    "rank": "MM",
+    "lastname": "Chris",
+    "firstname": "Muskego",
+    "hometown": "WI"
+  },
+  {
+    "dob": 2002,
+    "rank": "MS",
+    "lastname": "Tim",
+    "firstname": "Port",
+    "hometown": "Charlotte"
+  },
+  {
+    "dob": 2002,
+    "rank": "MT",
+    "lastname": "Brandon",
+    "firstname": "Kingsbay",
+    "hometown": "OH"
+  },
+  {
+    "dob": 2002,
+    "rank": "MT",
+    "lastname": "Brandon",
+    "firstname": "Kingsbay",
+    "hometown": "OH"
+  },
+  {
+    "dob": 2004,
+    "rank": "CPO",
+    "lastname": "Wes",
+    "firstname": "Dumas",
+    "hometown": "TX"
+  },
+  {
+    "dob": 2004,
+    "rank": "ET",
+    "lastname": "Jason",
+    "firstname": "Norway",
+    "hometown": "ME"
+  },
+  {
+    "dob": 2004,
+    "rank": "SCPO",
+    "lastname": "Doug",
+    "firstname": "Barron",
+    "hometown": "WI"
+  },
+  {
+    "dob": 2006,
+    "rank": "MM",
+    "lastname": "Jerry",
+    "firstname": "Gleason",
+    "hometown": "TN"
+  }
+]
